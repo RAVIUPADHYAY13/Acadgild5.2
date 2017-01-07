@@ -1,0 +1,2 @@
+var info = {name:"Shubham Agarwal", age:21, dob:"11 Sep 1995", pob:"New Delhi"};
+console.log("Name: "+ info['name'] + "\nAge:  "+ info['age'] +"\nDate of birth: " + info['dob'] + "\nPlace of birth: " + info['pob'] ); 
